@@ -1,11 +1,12 @@
-===Installation===
+---
+## Installation
 
-==Clone==
+### Clone
 Clone this repo to your local machine using
 https://github.com/VovaD199/08_FlaskApp_SQLAlchemy.git
 
 
-==Setup==
+## Setup
 py -m venv virtenv
 
 (~)virtent\Scripts\activate
@@ -15,5 +16,5 @@ py -m venv virtenv
 python.exe -m pip install --upgrade pip
 pip install - r requirements.txt
 
-==How to run local==
+## How to run local
 py app.py
